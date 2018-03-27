@@ -230,7 +230,7 @@ fieldset[disabled] .btn-theme {
 
 .btn-white-bg:hover, .btn-white-bg:focus, .btn-white-bg.focus {
   color: #fff;
-  background: #17bed2;
+  background: #84ebf7;
   border-color: transparent;
 }
 
@@ -285,6 +285,7 @@ fieldset[disabled] .btn-theme {
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
+
 
 /*------------------------------------------------------------------
   	[Social Icons]
@@ -1455,4 +1456,8 @@ fieldset[disabled] .btn-theme {
   .xs-text-right {
     text-align: right;
   }
+
+}
+
+#bordeTop {
 }
