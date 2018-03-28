@@ -1459,5 +1459,6 @@ fieldset[disabled] .btn-theme {
 
 }
 
-#bordeTop {
+.header .navbar{
+  border-bottom: none;
 }
